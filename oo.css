@@ -78,5 +78,123 @@
         font-size: 16px;
     }
    
+   
   }
+#information h3{
+    color: rgb(227, 86, 86);
+    padding-top: 4rem;
+    font-weight: 600;
+    font-size: 37px;
+    margin-bottom: 0.5rem;
+}
+#information h1, h2, p{
+    color: #fff;
+    font-weight: bold;
+    padding-left: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+#information h1{
+    font-weight: 800;
+}
+#information p{
+    font-size: 15px;
+}
+#information .row .col{
+    margin: 2rem 1rem;
+  
+}
+#information .col{
+    box-shadow: 16px 14px 20px #1b1c2b;
+    border-radius: 10px;
+}
+i{
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+    font-size: 40px;
+    color: #f64668;
+    padding-bottom: 1rem;
+}
+#information .col{
+    background-color: #2e3262;
+}
+#works img{
+    height: 370px;
+    width: 350px;
+    border-radius: 10px;
+    padding-left: 5px;
+}
+#works .row .col{
+   margin: 2rem 0rem;
+    
+  
+}
+.btn{
+    background-color: #f64668;
+    padding: 0.7rem 2rem;
+}
+.btn:hover{
+    background-image: linear-gradient(to right, aqua , violet);
+    color:#fff;
+}
+#works .col img {
+    transition: all 0.3s ease;   
+}
+
+#works .col:hover img {
+    transform: scale(1.1);
+}
+.all{
+    align-items: center;
+    text-align: center;
+    margin-top: 2rem;
+    
+}
+.all button{
+    padding: 0.7rem 3rem;
+}
+.progress-title{
+    width: 100%;
+    height: auto;
+}
+.progress-title h3{
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 20px;
+}
+.progress{
+    height: 20px;
+    background-color: #2e3262;
+    border-radius: 20px;
+    border: 1px solid #000;
+    box-shadow: 0 2px 2px #4f4c4c;
+    margin-bottom: 40px;
+    overflow: visible;
+    position: relative;
+
+}
+.progress .progress-bar{
+    border-radius: 20px;
+    border: 1px solid rgb(58, 56, 56);
+    animation: animate-positive 2s;
+}
+.progress .progress-value{
+    width: 65px;
+    height: 25px;
+    line-height: 25px;
+    background: #171b3c;
+    font-size: 15px;
+    color: #fff;
+    border-radius: 0 0 15px 15px;
+    border: 1px solid rgb(58, 56, 56);
+    border-top: none;
+    box-shadow: 0 2px 2px #4f4c4c;
+    position: absolute;
+    bottom: -25px;
+    right: 60px;
+
+}
+
+
+
 
