@@ -6,9 +6,12 @@
     font-family:Arial, Helvetica, sans-serif;
 }
 #zurag{
-    height: 670px;
-    width: 480px;
-    padding-right: 5rem;
+    height: 450px;
+    width: 600px;
+    padding-right: 1rem;
+    margin: 2rem 0rem;
+    
+    
 
 
 }
@@ -81,23 +84,34 @@
    
   }
 #information h3{
-    color: rgb(227, 86, 86);
+    color: rgb(224, 41, 41);
     padding-top: 4rem;
-    font-weight: 600;
-    font-size: 37px;
+    font-size: 17px;
     margin-bottom: 0.5rem;
+    display: flex;
+    text-transform: uppercase;
+
 }
-#information h1, h2, p{
+#information h2 {
     color: #fff;
     font-weight: bold;
     padding-left: 1.5rem;
-    padding-bottom: 1.5rem;
+    
+    
+    
 }
 #information h1{
     font-weight: 800;
+    font-size: 50px;
+    color: #FFF;
+    
 }
 #information p{
     font-size: 15px;
+    padding-left: 1.5rem;
+    padding-bottom: 2rem;
+    padding-right: 1.5rem;
+    color: #fff;
 }
 #information .row .col{
     margin: 2rem 1rem;
@@ -151,6 +165,7 @@ i{
 }
 .all button{
     padding: 0.7rem 3rem;
+    margin-bottom: 3rem;
 }
 .progress-title{
     width: 100%;
@@ -194,7 +209,138 @@ i{
     right: 60px;
 
 }
+label{
+    color: #fff;
+}
+hr{
+    margin: 0;
+}
+.drop{
+    width: 50%;
+    height: 80%;
+    
+  
+    
+    
+}
+form{
+    transition: all 4s ease-in-out;
+}
+.drop{
+    width: 50%;
+    float: right;
+    height: 80%;
+    padding-bottom: 90px;
+  
+    
+    
+}
+form{
+    transition: all 4s ease-in-out;
+}
+.form_control{
+    width: 540px;
+    outline: none;
+    border: 1px solid rgb(184, 178, 178);
+    font-size: 20px;
+    padding: 15px 0px;
+    border-radius: 7px;
+    background: none;
+    padding: 2rem 4rem;
+}
+#towch{
+    background-color: #f64668;
+    height: 60px;
+    width: 160px;
+    border-color: #f64668;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 20px;
+    margin-top: 0rem;
+    margin-right: 12rem;
+    display: flex;
+    justify-content: center;
 
+    
+    
 
+}
+.w1, .w2, .w3{
+    padding-left: 2rem;
+}
+
+.form-control{
+    background:none;
+    color: #262849;
+    padding: 20px 7px;
+    margin: 7px 10px;
+}
+.form-title {
+    color: #fff;
+    margin-bottom: 2rem;
+    font-weight: 700;
+    margin-left: 4.5rem;
+}
+.form-text h3{
+    padding-top: -6rem;
+
+    
+}
+.form-text{
+    color: #fff;
+}
+.form-info{
+    padding-left: 5rem;
+}
+.form-info-before i{
+    position:absolute;
+    font-size: 35px;
+    color: #f64668;
+}
+.form-info-before{
+    padding: 0.7rem 0rem;
+}
+.form-info{
+    color: #fff;
+}
+.form-info h3{
+    font-size: 24px;
+    padding-left: 0.7rem;
+}
+.form-info p{
+    color: rgb(190, 185, 185);
+}
+.form-text h1{
+    font-weight: 700;
+}
+.form-text p{
+    padding-top: 1rem;
+}
+footer{
+    background-color: #31335e;
+}
+.list-unstyled li a{
+    text-decoration: none;
+    color: #fff;
+}
+.list-unstyled li{
+    padding: 7px 0px;
+}
+.list-unstylied ul li{
+    padding: 2rem 0rem ;
+}
+.text-white{
+    padding-bottom: 2rem;
+}
+.footer-icons i{
+    font-size: 30px;
+}
+.text-white{
+    color: rgba(255, 255, 255, 0.849);
+    font-weight: 700;
+}
+.form-cont{
+    margin-bottom: 2rem;
+}
 
 
