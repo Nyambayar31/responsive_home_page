@@ -2,17 +2,17 @@
     {
       "Years": 1,
       "Experiment": "80+ clients",
-      "imgurl": "Sea.jpg"
+      "imgurl": "https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832__480.jpg"
     },
     {
         "Years": 1,
         "Experiment": "100+ clients",
-        "imgurl": "download.jpg"
+        "imgurl": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       },
       {
         "Years": 1,
         "Experiment": "30+ clients",
-        "imgurl": "hehehe.jpg"
+        "imgurl": "https://i.pinimg.com/564x/a8/16/cf/a816cfd39e292b2760a63aadb1a1d16b.jpg"
       }
     
   ]
