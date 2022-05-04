@@ -1,0 +1,24 @@
+[
+	{
+        "title":"Afghan Girl",
+        "text":"The Afghan girl, picture shot by National Geographic photographer Steve McCurry. Sharbat Gula was one of the students in an informal school within the refugee camp; McCurry, rarely given the opportunity to photograph Afghan women, seized the opportunity and captured her image. She was approximately 12 years old at the time. She made it on the cover of National Geographic next year, and her identity was discovered in 1992.",
+        "img":"girl.jpg"
+       
+	
+	
+	},
+	{
+        "title":"Swiss Pilot Yves Rossy",
+        "text":"Swiss pilot Yves Rossy, the world’s first man to fly with a jet-powered fixed-wing apparatus strapped to his back, flies during his first official demonstration, on May 14, 2008 above Bex, Switzerland. (Fabrice Coffrini/AFP/Getty Images).",
+        "img":"man.jpg"
+		
+		
+	},
+	{  
+        "title":"Losing",
+        "text":"In this picture, Lurlena cries in the back of the family car after losing the contest for Carnival Princess at her school. She spent the day getting ready, with a new white dress and new shoes. The winner was decided based on whose parents bought the most tickets, and Lurlena’s family could only afford eight dollars worth.",
+        "img":"losing.jpg"
+		
+	}
+	
+]
